@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋 I'm Nishmitha
 
-<!--
-**Nishmitha07/Nishmitha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering Student
 
-Here are some ideas to get you started:
+I enjoy building practical engineering solutions using Embedded Systems, IoT, VLSI, and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- C
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- Verilog
+- Arduino
+- ESP32
+- MATLAB
+
+## 🚀 Projects
+
+- 🌱 Smart Compost Bin
+- 🐶 Automatic Pet Feeder
+- ⚡ RISC-V Clock Gating
+- 🍲 Recipe Finder
+- 🌦️ Weather App
+- 💰 Budget Tracker
+- 🛍️ Product Landing Page
+- 🎨 Educare UI (Figma)
+- 💼 Portfolio Website
+
+## 🌱 Currently Learning
+
+- FPGA Design
+- Embedded Systems
+- VLSI
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/Nishmitha07
