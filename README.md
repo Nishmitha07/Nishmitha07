@@ -6,16 +6,16 @@ I enjoy building practical engineering solutions using Embedded Systems, IoT, VL
 
 ## 🛠️ Skills
 
+- Verilog
+- Arduino
+- ESP32
+- MATLAB
 - C
 - C++
 - Python
 - HTML
 - CSS
 - JavaScript
-- Verilog
-- Arduino
-- ESP32
-- MATLAB
 
 ## 🚀 Projects
 
