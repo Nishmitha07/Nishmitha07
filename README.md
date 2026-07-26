@@ -22,7 +22,7 @@ I build things that sit between hardware and software — embedded systems and I
 - 🌱 Currently learning: **Machine Learning**, Python for data analysis, modern web development
 - 💬 Ask me about: Verilog HDL, Arduino/ESP32 IoT builds, or how I keep breaking and fixing my own circuits
 - 📫 Reach me: **nishmitha075@gmail.com**
-- 🌐 Portfolio: *add your deployed portfolio URL here*
+- 🌐 Portfolio: *[My Portfolio](http://127.0.0.1:5500/#about)*
 
 ---
 
