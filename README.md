@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🎓 3rd-year B.E. ECE @ SMVITM, Udupi &nbsp;·&nbsp;
+  🎓 4yh-year B.E. ECE @ SMVITM, Udupi &nbsp;·&nbsp;
   📍 Udupi, Karnataka, India &nbsp;·&nbsp;
   🌱 Currently learning <b>Machine Learning</b>
 </p>
@@ -80,14 +80,6 @@ I build things that sit between hardware and software — embedded systems and I
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishmitha07&show_icons=true&theme=transparent&hide_border=true&title_color=4FAE93&icon_color=C97A3D&text_color=A9BDB2" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishmitha07&layout=compact&theme=transparent&hide_border=true&title_color=4FAE93&text_color=A9BDB2" height="165" />
-</p>
-
----
 
 ### 📫 Connect with me
 
